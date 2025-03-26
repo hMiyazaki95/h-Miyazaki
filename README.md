@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hajime Miyazaki</h1>
-<h3 align="center">A passionate iOS mobile app developer</h3>
+<h3 align="center">An aspiring AI Developer passionate about building intelligent, user-friendly applications</h3>
 
-- 🔭 I’m currently working on **SecureBank** - A secure and accessible mobile banking app built with SwiftUI. The app allows users to manage their bank accounts, view transaction history, transfer money, and pay bills, all while ensuring accessibility and security.
+- 🔭I’m currently building CyberBot – an AI-powered chatbot app using OpenAI GPT. It delivers real-time responses that are domain specific to cyber security. Tech stack: React, TypeScript, Node.js, Express, OpenAI API, and PostgreSQL.
 
-- 🌱 I’m currently learning **SwiftUI, Firebase, Keychain Services, WCAG 2.1 Compliance**
+- 🌱  I’m currently learning and applying Prompt Engineering, LangChain, RAG architecture, AI model integration, OpenAI, Llama, Gemini and AWS**
 
-- 👯 I’m looking to collaborate on **SecureBank** - Enhancing its features, security, and accessibility.
+- 👯 I’m open to collaborating on AI-focused projects, especially in areas like natural language processing, chatbots, mental health, or productivity tools.
 
-- 🤝 I’m looking for help with **SecureBank** - Implementing advanced security measures and improving performance.
-
-- 💬 Ask me about **iOS Development, SwiftUI, Firebase, React, Vue.js (Vue), GSAP (GreenSock Animation Platform)**
+- 🤝 I’m looking to grow with a team that's working on innovative solutions using LLMs, real-time AI apps, or AI infrastructure.
+  
+- 💬 Ask me about AI Integration, GPT APIs, TypeScript, React, Node.js, PostgreSQL**
 
 - 📫 How to reach me **hmiyazakiemail6@gmail.com**
 
